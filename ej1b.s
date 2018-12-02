@@ -10,9 +10,8 @@ RESULTADO	DCD	1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20	; Vector de 4 b
 	ADRL	r1, RESULTADO	; r1 se convierte en puntero al vector RESULTADO
 	B COND			; Salto incondicional a COND (simulando bucle while)
 
-BUCLE	LDR	r3,[r1]		; Cargamos primera palabra de r1 en r3
+BUCLE	LDR	r3,[r1],#4	; Cargamos primera palabra de r1 en r3. Usamos post-indexado, por lo que al terminar la instrucción r1 avanzará una palabra (siguiente elemento)
 	ADD	r0,r0,r3		; Sumamos a r0 el contenido de la posición del vector en la que estamos
-	ADD	r1,r1,#4		; Avanzamos una palabra en vector para pasar al siguiente numero
 	ADD	r2,r2,#1		; Sumamos 1 a contador
 
 COND	CMP	r2, #20		; Si contador es menor que 20, saltar a etiqueta BUCLE	
