@@ -1,7 +1,7 @@
 	AREA	ej2,CODE,READWRITE
 
 SWI_Salir	EQU	&11	; Codigo de impresion de salida del programa(11)
-VECTOR		DCD	1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,30,20	
+VECTOR		DCD	20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40	
 
 
 	ENTRY
@@ -11,8 +11,6 @@ VECTOR		DCD	1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,30,20
 	MOV r0,#0	; Registro de resultado a 0
 	MOV r3,#0	; Contador a 0
 	MOV r2,#0	; Variable acumulativa a 0
-	BL BUCLE		; Saltamos a BUCLE incondicionalmente
-	SWI SWI_Salir	; Salida del programa
 
 
 BUCLE
@@ -21,10 +19,9 @@ BUCLE
 	ADD r3,r3,#1 	; r3 es contador
 	ADD r2,r2,r1	; r2 es variable acumulativa
 	CMP r3,r12    	; contador<elementos vector?
-	MOV r5,r2	; r5 almacena tambien sumatorio de elementos
-	BLT BUCLE
+	BLE BUCLE
 	
-	BL CONDDIV
+	MOV r5,r2	; r5 almacena tambien sumatorio de elementos
 
 BUCLEDIV	
 	SUB r2,r2,#20
@@ -32,7 +29,7 @@ BUCLEDIV
 
 
 CONDDIV	CMP r2,r12
-	BLE SALIDA
+	BLT SALIDA
 	CMP r2,#0
 	BGE BUCLEDIV
 
