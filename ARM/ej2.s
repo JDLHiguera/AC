@@ -1,7 +1,7 @@
 	AREA	ej2,CODE,READWRITE
 
 SWI_Salir	EQU	&11	; Codigo de impresion de salida del programa(11)
-VECTOR		DCD	1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20	
+VECTOR		DCD	1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,30,20	
 
 
 	ENTRY
@@ -31,13 +31,13 @@ BUCLEDIV
 	ADD r0,r0,#1
 
 
-CONDDIV	CMP r2,r5
-	BGE SALIDA
+CONDDIV	CMP r2,r12
+	BLE SALIDA
 	CMP r2,#0
 	BGE BUCLEDIV
 
  	
-SALIDA
-	MOV pc,r14
+SALIDA	SWI SWI_Salir
+	
 
 	END
