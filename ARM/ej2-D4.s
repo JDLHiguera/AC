@@ -12,7 +12,7 @@ VECTOR		DCD	20,256,22,23,24,25,212356,27,28,59,30,131,32,33,34,35,36,37,38,39,15
 	MOV r3,#0	; Contador a 0
 
 
-BUCLE    LDR r1,[r11],#4	; Cargamos en r1 primera pos de VECTOR (postindexado) 
+BUCLE  	LDR r1,[r11],#4	; Cargamos en r1 primera pos de VECTOR (postindexado) 
 	ADD r3,r3,#1	; Contador= Contador+1	
 	CMP r1, r0	; Si valor actual del vector > maximo - > salto a maximo
 	BGT MAXIMO
