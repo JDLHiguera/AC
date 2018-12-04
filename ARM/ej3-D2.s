@@ -1,4 +1,4 @@
-	AREA	ej2,CODE,READWRITE
+	AREA	ej3-D2,CODE,READWRITE
 
 SWI_Salir	EQU	&11	; Codigo de impresion de salida del programa(11)
 VECTOR		DCD	1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0	

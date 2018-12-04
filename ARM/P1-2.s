@@ -1,4 +1,4 @@
-	AREA	Calc,CODE,READWRITE
+﻿	AREA	P1-2,CODE,READWRITE
 
 RESULTADO  	DCB 	0,0,0,0,0,0,0   	; Vector de 7 elementos, inicializado a 0.
 		ALIGN
