@@ -1,7 +1,7 @@
 	AREA	ej2,CODE,READWRITE
 
 SWI_Salir	EQU	&11	; Codigo de impresion de salida del programa(11)
-VECTOR		DCD	20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40	
+VECTOR		DCD	20,21,22,23,24,25,26,27,28,29,3043,31,32,3323,34,35,36,37,38,39,40	
 
 
 	ENTRY
@@ -15,7 +15,7 @@ VECTOR		DCD	20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40
 
 BUCLE
 
-	LDRB r1,[r11],#4	; postindexado utilizado,
+	LDR r1,[r11],#4	; postindexado utilizado,
 	ADD r3,r3,#1 	; r3 es contador
 	ADD r2,r2,r1	; r2 es variable acumulativa
 	CMP r3,r12    	; contador<elementos vector?
