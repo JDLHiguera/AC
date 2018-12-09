@@ -11,8 +11,8 @@ CADENA		DCB	"aaaaaKaaaabbbpbbbbbc", &a, &d,0
 	MOV r0,#0	; r0 inicializado a 00
 	MOV r2,#0	; r2 es contador inicializado a 0
 
-BUCLE	LDRB r1,[r11],#1	; Cargamos caracter de cadena en r1
-	CMP r1,r0	; r1 > r2 ?
+BUCLE	LDRB r1,[r11],#1	; Cargamos caracter de CADENA en r1
+	CMP r1,r0	; r1 > r0 ?
 	BGT MAXIMO	; salto a MAXIMO
 
 ITERA	ADD r2,r2,#1	; contador ++
@@ -22,7 +22,7 @@ ITERA	ADD r2,r2,#1	; contador ++
 
 	SWI SWI_Salir	; Salida del programa
 	
-MAXIMO	MOV r0,r1
+MAXIMO	MOV r0,r1	; Guardamos en r0 valor actual de CADENA (r1)
 	BL ITERA
 
 
