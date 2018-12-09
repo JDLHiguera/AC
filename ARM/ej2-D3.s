@@ -1,31 +1,29 @@
-	AREA	ej3-D2,CODE,READWRITE
+	AREA ej2D3,CODE,READWRITE
 
-SWI_Salir	EQU	&11	; Codigo de impresion de salida del programa(11)
-VECTOR		DCD	1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0	
-
+SWI_Salir	EQU	&11 ; Codigo de impresion de salida del programa(11)
+CADENA		DCB	"aaaaaKaaaabbbpbbbbbc", &a, &d,0
+	ALIGN
 
 	ENTRY
 
-	ADR r1, VECTOR	; r1 apunta a posicion n del vector
-	ADR r2, VECTOR	; r2 apunta a posicion n+1 del vector
-	ADD r2,r2,#4	; posicion n+1 para r2
-	MOV r3, #0	; r3 es contador inicializado a 0
-	MOV r4, #18	; r4 son elementos restantes	
+	ADR r11,CADENA	; r11 es puntero a inicio de CADENA
+	MOV r12, #20	; nº de caracteres de CADENA (sin terminador)
+	MOV r0,#0	; r0 inicializado a 00
+	MOV r2,#0	; r2 es contador inicializado a 0
+
+BUCLE	LDRB r1,[r11],#1	; Cargamos caracter de cadena en r1
+	CMP r1,r0	; r1 > r2 ?
+	BGT MAXIMO	; salto a MAXIMO
+
+ITERA	ADD r2,r2,#1	; contador ++
+	CMP r2,r12	; r2 < r12 ?
+	BLT BUCLE	; salto a BUCLE
 
 
-BUCLE
-	MOV r0,#0	; reseteamos r0 para trabajar con el a continuacion
-	LDR r6,[r1],#4	; posicion n en r6
-	LDR r7,[r2],#4	; posicion n+1 en r7
-	ADD r0,r6,r7	; r0 almacena n + (n+1)
-	STR r0,[r2]	; guardamos n + (n+1) en posicion n+2 (n+2 por el postindexado)
+	SWI SWI_Salir	; Salida del programa
 	
-	ADD r3,r3,#1 	; contador + 1
-	CMP r3,r4  	; contador<elementos restantes? - > iteracion
-	BLT BUCLE
-	
+MAXIMO	MOV r0,r1
+	BL ITERA
 
- 	SWI SWI_Salir
-	
 
 	END
