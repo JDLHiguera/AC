@@ -3,32 +3,31 @@
 SWI_Salir	EQU	&11
 SWI_write0	EQU 	&2
 
-CADENA1	=	"Cadenadeveintecaract", &0a, &0d, 0
-	ALIGN
-CADENA2	% 22	; Reserva espacio para cadena 2
+CADENA		DCB	"abcdefgABCDEFGbbbbbc", &a, &d,0
+CADENA2		DCB	"aaaaaKaaaabbbpbbbbbc", &a, &d,0
+c	% 21	; Reserva espacio para c
 	ALIGN
 
 	ENTRY
-	
-	ADR r1,CADENA1		; r0 es puntero a CADENA1
-	ADR r2,CADENA2		; r1 es puntero a CADENA2
-	MOV r6,#0		; r6 es contador inicializado a 0
-	
-BUCLE	LDRB	r3,[r1]		; Cargamos primera palabra de r1 en r3
-	
-	EOR r4,r3,#'c'
-	
-	STRB	r3,[r2]
 
-
-	ADD	r1,r1,#1		; Sumamos a r0 el contenido de la posición del vector en la que estamos
-	ADD	r2,r2,#1
+	MOV r0,#0		; r0 es contador a 0
+	ADR r1,CADENA		; r1 apunta a CADENA1
+	ADR r2,CADENA2		; r2 apunta a CADENA2
+	;ADR r3,c			; r3 apunta a c
+	MOV r3, #21
 	
-	CMP r6, #16
-	BGT BUCLE
+BUCLE	LDRB r4,[r1],#1		; cargamos en r4 caracter de CADENA
+
+	
+	EOR r5,r4,r3		; r5 = origen[i] XOR c
+	STRB r5,[r2],#1		; guardamos rloquesea en CADENA2
+	
+	ADD r0,r0,#1	
+	CMP r0,#20
+	BLT BUCLE
 	
 
-	ADR	r0,CADENA1
+	ADR	r0,CADENA
 	SWI 	SWI_write0
 	
 	ADR	r0,CADENA2
