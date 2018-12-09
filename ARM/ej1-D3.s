@@ -3,9 +3,10 @@
 SWI_Salir	EQU	&11
 SWI_write0	EQU 	&2
 
-CADENA		DCB	"abcdefgABCDEFGbbbbbc", &a, &d,0
-CADENA2		DCB	"aaaaaKaaaabbbpbbbbbc", &a, &d,0
-c	% 21	; Reserva espacio para c
+CADENA		DCB	"abcdefghijklmGbbbbbc", &a, &d,0
+c		EQU 	21 	
+CADENA2 % 21		; Reserva espacio para CADENA2
+
 	ALIGN
 
 	ENTRY
@@ -13,8 +14,8 @@ c	% 21	; Reserva espacio para c
 	MOV r0,#0		; r0 es contador a 0
 	ADR r1,CADENA		; r1 apunta a CADENA1
 	ADR r2,CADENA2		; r2 apunta a CADENA2
-	;ADR r3,c			; r3 apunta a c
-	MOV r3, #21
+	ADR r3,c			; r3 apunta a c
+	;MOV r3, #21		; para testear diferencias
 	
 BUCLE	LDRB r4,[r1],#1		; cargamos en r4 caracter de CADENA
 
