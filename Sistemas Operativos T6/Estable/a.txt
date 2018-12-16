@@ -1,0 +1,525 @@
+A1G11T1E4.txt
+¿Cuál de estos sistemas económicos no existe como tal? 
+A. Sistema capitalista.
+B. Sistema comunista.
+C. Economías mixtas.
+D. Sistema socialista.
+B
+A1G11T2E3.txt
+¿Cuáles son los elementos inmateriales de los que se constituye una empresa? 
+A. La organización, objetivos y metas.
+B. La imagen pública y la cultura de la empresa.
+C. Know-How.
+D. Todas las respuestas anteriores son correctas.
+D
+A1G11T2E5.txt
+¿Cuáles son los tipos de empresas societarias?
+A. Sociedad anónima, sociedad laboral y sociedad cooperativa.
+B. Comunidad de bienes, sociedad colectiva y sociedad de responsabilidad limitada.
+C. Todas las respuestas son correctas.
+D. Sociedad comanditaria simple y sociedad comanditaria por acciones.
+C
+A1G11T3E4.txt
+¿Cuáles son los subsistemas que podemos encontrar en una empresa?
+A. De dirección y gestión, comercial, de producción, financiero y de información.
+B. De gestión y financiero.
+C. De dirección y gestión, de producción, financiero y de información.
+D. De dirección y gestión, comercial, de producción, financiero y de marketing.
+A
+A1G11T3E6.txt
+Indica a cuál de las funciones directivas de la empresa pertenece la siguiente definición: "Determinar los objetivos de la empresa y el camino a seguir para alcanzarlos". 
+A. Organizar y coordinar.
+B. Liderar.
+C. Planificar.
+D. Controlar.
+C
+A1G11T4E1.txt
+¿Qué se entiende por patrimonio?
+A. Conjunto de bienes, derechos y obligaciones pertenecientes a una persona física o jurídica.
+B. Conjunto de ítems o partidas que integran el acervo de una empresa.
+C. Conjunto de elementos que tienen características homogéneas.
+D. Ninguna de las respuestas anteriores es la correcta.
+A
+A1G11T4E2.txt
+Indica las magnitudes que definen la inmersión: 
+A. Horizonte temporal y desembolso inicial.
+B. Cash-Flow y valor residual.
+C. Todas las respuestas anteriores son correctas.
+D. Todas las respuestas anteriores son incorrectas.
+C
+A1G11T5E1.txt
+¿Cual de todos estos conceptos tiene este significado: "Objetos que tienen valor económico. Pueden ser materiales, reales, tangibles o inmateriales"
+A. Bienes.
+B. Bienes económicos.
+C. Bienes escasos.
+D. Servicios.
+B
+A1G11T5E3.txt
+¿Cómo son los procesos productivos según la extensión temporal del proceso? 
+A. Producción continua y Producción intermitente.
+B. Producción simple y Producción múltiple.
+C. Producción para mercado y Producción sobre pedido.
+D. Todas las respuestas anteriores son correctas.
+A
+A1G11T6E4.txt
+¿Cuáles son los factores que inciden en la eficiencia de la productividad de una empresa? 
+A. Los materiales.
+B. La mano de obra y el equipo capital.
+C. Los terrenos y edificios.
+D. Todas las respuestas anteriores son correctas.
+D
+A1G11T6E5.txt
+Indica a qué término corresponde la siguiente definición: "Es la expresión monetaria de las adquisiciones de factores que realiza la empresa en el desarrollo de su actividad, y que darán lugar, en su momento, a salidas de dinero o pagos.": 
+A. Gasto.
+B. Coste.
+C. Productividad.
+D. Amortización.
+A
+AG1T1E3.txt
+Las tres cuestiones económicas fundamentales a las que toda sociedad ha de hacer frente son: 
+A. Qué bienes y servicios producir y en que cuantía, con qué producir estos bienes y servicios, y para quién se produce.
+B. Qué bienes y servicios producir y en que cuantía, cómo producir estos bienes y servicios, y para quién se produce.
+C. Qué bienes y servicios ofrecer, cómo vender estos bienes y servicios, y para quién se produce.
+D. Qué bienes y servicios ofrecer, cómo les benefícian estos bienes y servicios, y para qué se produce.
+B
+AG1T1E5.txt
+Podemos distinguir tres tipos de agentes económicos:
+A. Las economías domésticas, las empresas y el sector público.
+B. Las economías domésticas, las empresas y el sector privado.
+C. Las economías versátiles, las grandes empresas y el sector público.
+D. Las economías domésticas, las pequeñas empresas y el sector privado.
+A
+AG1T2E2.txt
+¿Cuál de las siguientes respuestas no es una de las funciones de la empresa? 
+A. Función social.
+B. Función de asumir riesgo en la actividad económica.
+C. Función de la naturaleza de la actividad económica que desarrolla.
+D. Función de descuento o anticipo del producto obtenido.
+C
+AG1T2E3.txt
+¿Cuáles son los elementos constitutivos inmateriales de la empresa?
+A. La organización, los objetivos y metas, la imagen pública, el Know-how y la cultura de la empresa.
+B. La organización, los objetivos y metas, la imagen pública, el Now-cow y la cultura de la empresa.
+C. Los empleados, los propietarios del capital, la imagen pública, el Know-how y la cultura de la empresa.
+D. La trabajadores, los administradores, los bienes duraderos, la imagen pública, y la cultura de la empresa.
+A
+AG1T3E1.txt
+Según Cruz Roche, ¿cuántos son los principios generales que mayor relevancia presentan para nuestra disciplina? 
+A. 5.
+B. 7.
+C. 15.
+D. 10.
+D
+AG1T3E4.txt
+¿Cuál de las siguientes respuestas no es un subsistema empresarial? 
+A. Subsistema Comercial.
+B. Subsistema Financiero.
+C. Subsistema Tecnológico.
+D. Subsistema de Dirección y Gestión.
+C
+AG1T4E2.txt
+¿Qué es la depreciación?
+A. Tener poca estima por algo o alguien. Indigno de aprecio.
+B. El proceso de pérdida de valor de un bien del inmovilizado desde el momento de su adquisición hasta llegar a no valer nada con el transcurrir del tiempo.
+C. El proceso de ganancia de valor de un bien del inmovilizado desde el momento de su adquisición hasta llegar a no valer el doble con el transcurrir del tiempo.
+D. El proceso de pérdida de valor de un bien del movilizado cuando llega a no valer nada con el transcurrir del tiempo. 
+B
+AG1T4E6.txt
+¿Con qué fórmula se calcula el beneficio económico antes de impuestos?
+A. BE = BN - INTERESES DE LA DEUDA (F)
+B. BE = BE* - IMPUESTOS
+C. BE = BN + COSTES TOTALES DE LA ACTIVIDAD NO FINANCIEROS
+D. BE = INGRESOS TOTALES – COSTES TOTALES DE LA ACTIVIDAD NO FINANCIEROS
+D
+AG1T5E3.txt
+Indica cuál de las siguientes respuestas no es un tipo de proceso productivo: 
+A. Según la extensión temporal del proceso.
+B. Según la gama de productos obtenida.
+C. Según la configuración establecida para el proceso productivo.
+D. Según la forma de satisfacer la demanda de producción alternativa.
+D
+AG1T5E4.txt
+¿En qué aspectos se centran los objetivos a alcanzar por el subsistema productivo?
+A. Costes, entregas, calidad, flexibilidad y servicio.
+B. Costes, entregas, calidad, flexibilidad, servicio y garantías.
+C. Costes, entregas, calidad y flexibilidad.
+D. Costes, entregas, calidad, flexibilidad, servicio, garantías y precios.
+A
+AG1T6E1.txt
+Determine cual de las siguientes afirmaciones es falsa sobre la eficiencia. 
+A. Medida cuantitativa física (medida de productividad o rendimiento técnico).
+B. Salida del sistema sin considerar los recursos aplicados para su obtención.
+C. Medida de rendimiento. Se compara las salidas con el volumen de factores que se han empleado.
+D. Medida cuantitativa monetaria (medida de coste o rendimiento económico).
+B
+AG1T6E3.txt
+La curva de producción total toma la siguiente forma:
+A. En el tramo uno, la curva es cóncava y la producción disminuye más que proporcionalmente a los aumentos del factor variable.
+B. En el tramo 2, la curva es cóncava y la producción crece más que proporcionalmente a los aumentos del factor variable.
+C. En el tramo 3, la curva es descendente y la producción decrece continuamente aún cuando se produzcan incrementos del factor variable. 
+D. Todas las respuestas son incorrectas.
+C
+AG1T7E2.txt
+Las fases del proceso de diseño y desarrollo de nuevos productos son:
+A. Generación de ideas o identificación de oportunidades, evaluación y selección de ideas, especificación del nuevo producto, desarrollo e ingeniería del producto y el proceso, pruebas y evaluación de los diseños y fabricación y distribucción.
+B. Generación de ideas o identificación de oportunidades, especificación del nuevo producto, desarrollo e ingeniería del producto y el proceso, pruebas y evaluación de los diseños y fabricación y distribucción.
+C. Generación de ideas o identificación de oportunidades, evaluación y selección de ideas, especificación del nuevo producto, desarrollo e ingeniería del producto y el proceso y fabricación y distribucción.
+D. Evaluación y selección de ideas, especificación del nuevo producto, desarrollo e ingeniería del producto y el proceso, pruebas y evaluación de los diseños y fabricación y distribucción. 
+A
+AG1T7E5.txt
+Dentro de las diferentes formas que existen de organizar el flujo de materiales, el proceso por proyecto es aquel que:
+A. Fabrica lotes pequeños de gran variedad de productos, que son adaptados particularmente a las necesidades de cada cliente.
+B. Existe una línea estable de productos, como una producción periódica, y los distintos pedidos siguen un flujo similar a lo largo de la planta.
+C. Aparece en la fabricación de productos estandarizados que pasan de forma secuencial por las distintas etapas de su proceso de fabricación, siguiendo un ritmo controlado y manteniendo un escaso nivel de inventario entre cada operación.
+D. Supone la fabricación de un único producto exclusivo, adaptado plenamente a las necesidades específicas del cliente, lo que obliga a diseñar una secuencia de operaciones única para cada proyecto. 
+D
+AG1T8E2.txt
+Determine la respuesta correcta.
+A. La producción a gran escala permite un mejor aprovechamiento de las ventajas económicas de la división del trabajo.
+B. Se entiende por economía de escala como un fenómeno a través del cual las empresas de gran dimensión consiguen costes unitarios de producción más altos que las empresas de menor dimensión.
+C. El principio de las operaciones al por mayor determina que a mayor poder de negociación con los clientes, se consiguen peores condiciones y tarifas.
+D. La dimensión hace referencia al tamaño de la empresa. Hay que distinguir entre dimensión de explotación, dimensión de la empresa y la dimensión empresarial del entorno.
+A
+AG1T8E3.txt
+¿Cuáles son los conceptos de los que depende la estructura de costes? 
+A. Margen de cobertura, coeficiente de cobertura y stock.
+B. Margen de cobertura, grados de apalancamiento operativo y coeficiente de cobertura.
+C. Grados de apalancamiento operativo y coeficiente de cobertura.
+D. Margen de cobertura, grado de apalancamiento operativo, coeficiente de cobertura y beneficio unitario.
+B
+AG1T9E1.txt
+Entendemos por localización de la empresa como:
+A. Lugar elegido para situar la empresa y desarrollar su actividad productiva.
+B. Decisión estratégica vinculada al largo plazo que inmoviliza gran cantidad de recursos.
+C. Decisión rígida que afecta a la capacidad competitiva de la empresa. Supone unos costes de oportunidad.
+D. Todas las respuestas son correctas.
+D
+AG1T9E3.txt
+Los procedimientos necesarios a llevar a cabo para tomar decisiones de localización son: 
+A. Análisis preliminar, búsqueda de alternativas y selección de la localización.
+B. Búsqueda de alternativas, evaluación detallada de alternativas y selección de la localización.
+C. Análisis preliminar, búsqueda de alternativas, evaluación detallada de alternativas y selección de la localización.
+D. Todas las respuestas son incorrectas.
+C
+AG1T10E1.txt
+Uno de los síntomas que ponen de manifiesto la necesidad de recurrir a la redistribución de una planta productiva es:
+A. Congestión y deficiente utilización del espacio.
+B. No acumulación de materiales en procesos.
+C. Poca distancia a recorrer en el flujo de trabajo.
+D. Control total de las operaciones y del personal.
+A
+AG1T10E2.txt
+Existen varias formas de llevar a cabo la distribución en planta:
+A. Distribución por procesos, distribución por productos y distribución celular.
+B. Distribución por procesos, distribución por productos, distribución celular y distribución de punto fijo.
+C. Distribución por productos, distribución celular y distribución de punto fijo.
+D. Distribución por procesos, distribución por productos y distribución de punto fijo.
+B
+AG2T1E3.txt
+Las tres cuestiones económicas fundamentales son:
+A. Que bienes y servicios producir y en que cuantía, cómo producirlos y para quién producirlos.
+B. Que bienes y servicios producir, cuánto beneficio obtendremos y a quien vendee los productos.
+C. A quién hacer la competencia, cuánto dinero vamos a invertir y cuándo realizaremos la campaña.
+D. Cuánto personal debemos contratar, cuánto dinero vamos a invertir y cuánto beneficio obtendremos. 
+A
+AG2T1E4.txt
+¿Qué se entiende por sistema económico?
+A. El reparto de los recursos y mercancías.
+B. El conjunto de los organismos, instituciones y departamentos que dependen del Estado o sus entes.
+C. La forma de organizar las relaciones entre los distintos elementos que componen la realidad económica de un país, sus características y su existencia. 
+D. Las unidades que participan en la actividad económica de un país.
+C
+AG2T2E1.txt
+La definición de producción es:
+A. Conjunto de factores ordenados y destinados a la obtención del máximo beneficio.
+B. La actividad de creación o incremento de la utilidad o capacidad de los bienes.
+C. Entidad organizada.
+D. Enfoque administrativo en la ciencia de la administración y organización.
+B
+AG2T2E5.txt
+¿Qué tipo de empresa está formada por una o varias personas físicas que realizan en nombre propio y por medio de una empresa una actividad determinada? 
+A. Sociedad Anónima. 
+B. Sociedad Limitada.
+C. Sociedad Laboral.
+D. Una empresa individual.
+D
+AG2T3E4.txt
+¿Qué subsistema se encarga de realizar aprovisionamientos?
+A. Financiero
+B. Proveedor
+C. Físico
+D. Gestión
+C
+AG2T3E6.txt
+Las funciones que realiza un directivo son 5:
+A. Controlar, liderar, gestionar, coordinar y planificar.
+B. Planificar, coordinar, liderar, gestionar y organizar.
+C. Coordinar, gestionar, controlar, organizar y planificar.
+D. Liderar, organizar, planificar, controlar y coordinar.
+D
+AG2T4E1.txt
+¿Qué se entiende por partrimonio?
+A. El conjunto de bienes, derechos y obligaciones pertenecientes a una persona física o jurídica.
+B. Conjunto de elementos que tienen características heterogéneas.
+C. Conjunto de cuentas que tienen características homogéneas.
+D. Situación de una empresa en un momento dado.
+A
+AG2T4E2.txt
+¿Qué es el Cash-Flow?
+A. El tiempo que transcurre desde que se hace la inversión hasta que ésta deja de generar entradas y salidas de dinero.
+B. El tiempo que transcurre desde el inicio de un proyecto hasta que sus activos se deterioran.
+C. Corriente de pagos y cobros que se realizan a lo largo del horizonte temporal de la inversión.
+D. Ninguna de las respuestas es correcta.
+C
+AG2T5E2.txt
+¿Cuáles son los factores fijos?
+A. Los que pueden aplicarse al proceso productivo en diferentes cantidades a corto plazo.
+B. Aquellos cuyas cantidades no pueden variar en un corto plazo de tiempo.
+C. Aquellos cuyas cantidades pueden variar en un corto plazo de tiempo.
+D.Los que pueden aplicarse al proceso productivo en diferentes cantidades a largo plazo.
+B
+AG2T5E3.txt
+¿Cómo se le llama al procedimiento de transformación de unos elementos determinados en un producto específico? 
+A. Proceso continuo.
+B. Proceso intermitente.
+C. Proceso transformativo.
+D. Proceso productivo.
+D
+AG2T6E3.txt
+Si realizamos una representación gráfica en la que se incluya las curvas de producción total, productividad media y marginal:
+A. El máximo de la productividad marginal coincide con el punto de inflexión de la curva de producción total.
+B. El máximo de la productividad media coincide con el punto de inflexión de la curva de producción total.
+C. Los maximos de las productividades media y marginal coinciden con el punto de inflexión de la curva de producción total.
+D. No existe coincidencia entre los maximos de las productividades y el punto de inflexión de la curva de producción total.
+A
+AG2T6E5.txt
+El coste variable medio es:
+A. El cociente entre el coste variable y el volumen d eproducción correspondiente.
+B. El cociente entre el coste fijo y el volumen de producción correspondiente.
+C. El cociente entre el coste total y el número de unidades producidas.
+D. Es la variación producida en el coste total al incrementar la producción en una unidad más.
+A
+AG2T7E1.txt
+Los bienes o productos físicos son:
+A. Los servicios que ofrece la empresa.
+B. Los productos de la empresa.
+C. Aquellos constituidos preferentemente por atributos tangibles.
+D. Aquellos que sean bienes duraderos y preferiblemente tangibles.
+C
+AG2T7E4.txt
+¿Cómo se le llama al acuerdo entre dos organizaciones destinado a formar una nueva explotacion de propiedad conjunta?:
+A. Joint Forces.
+B. Joint Ventures.
+C. Ventures Joint.
+D. Joint Cash
+B
+AG2T8E3.txt
+¿Qué es el punto muerto?
+A. El punto de equilibrio que determina el volumen de operaciones en el que la empresa cubre todos sus costes fijos.
+B. El margen de cobertura de los benificios que obtiene la empresa a lo largo de un año.
+C. Los costes fijos de la empresa a lo largo de un año.
+D. EL punto a partir del cual, por encima, empieza a haber pérdidas.
+A
+AG2T8E4.txt
+¿En qué consiste el aspecto financiero?
+A. Limita la dimensión de las empresas.
+B. Esta plasmado en las relaciones de coste entre los factores capital y trabajo.
+C. Todas las respuestas son correctas.
+D. Es el que refleja las mayores posibilidades de las grandes empresas de obtener capital más barato acudiendo a un mayor número de mercados
+B
+AG2T9E3.txt
+¿En qué consiste el analisis preliminar?
+A. En buscar en que lugar es mejor situar las instalaciones de una empresa.
+B. En obtener un único producto de características homogéneas.
+C. En buscar la mejor fuente de abastecimiento.
+D. En estudiar las estrategias y políticas que la empresa desea seguir en sus distintas áreas para traducirlas en requisitos de localización.
+D
+AG2T9E4.txt
+El método del centro de gravedad:
+A. Siempre preeve con certeza los costes que supondrían cada una de las distintas alternativas de localización.
+B. Tiene en cuenta la localización de los mercados, el volumen de artículos transportados y los costes de transporte por unidad.
+C. Tiene como primer paso seleccionar los factores más relevantes a la hora de tomar la desición d ela localización.
+D. Muestra la insuficiencia de la capacidad productiva.
+B
+AG2T10E2.txt
+Una desventaja de la distribución por productos puede ser:
+A. Todas las respuestas son correctas.
+B. La elevada inversión en maquinaria.
+C. Los costes de fabricación, que tienden a ser altos.
+D. El menor nivel de cualificación de los operarios.
+A
+AG2T10E3.txt
+¿Qué se puede definir como una sucesión de puestos de trabajos fijosen cada uno de los cuales se realizan unas operaciones específicas? 
+A. El análisis carga-descarga.
+B. El tiempo de ciclo.
+C. La cadena de producción.
+D. El elemento de trabajo.
+C
+AG3T1E3.txt
+Las tres cuestiones económicas fundamentales son: 
+A. Los recursos, el beneficio, y el objetivo.
+B. Qué producir (y en qué cantidad), cómo producir, y para quién producir.
+C. No hay tres cuestiones económicas fundamentales.
+D. El paro, la oferta, y la demanda.
+B
+AG3T1E6.txt
+Atendiendo a la ley de la oferta y la demanda:
+A. La variación de la oferta afecta proporcionalmente a la demanda siempre.
+B. La variación de la oferta no afecta a la demanda.
+C. La variación de la oferta afecta proporcionalmente a la demanda, pero no siempre y con casos anómalos.
+D. La variación de la oferta es inversamente proporcional a la variación de la demanda.
+C
+AG3T2E1.txt
+Características de la empresa:
+A. Es unidad económica de producción + acción planeada por empresario + tiene fines + entidad ordenada + actividad con riesgo económico.
+B. Es unidad económica de producción + acción planeada por empresario + tiene fines + entidad ordenada.
+C. Lleva a cabo acciones planeadas por empresario + tiene fines + entidad ordenada + actividad con riesgo económico.
+D. Es unidad económica de producción + acción planeada por empresario + actividad con riesgo económico. 
+A
+AG3T2E3.txt
+Los elementos constitutivos de la empresa:
+A. Elementos materiales + elementos organizativos.
+B. Elementos materiales + elementos inmateriales.
+C. Elementos materiales + elementos económicos.
+D. Elementos humanos + elementos materiales + elementos inmateriales.
+D
+AG3T3E5.txt
+Los componentes ambientales externos del entorno específico relevantes para las empresas industriales son:
+A. Componentes de consumidores, de proveedores, de competidores y componente tecnológico. 
+B. Componentes de consumidores, de proveedores, de competidores, componente socio-político y tecnológico. 
+C. Componentes de consumidores, de proveedores, de clientes y componente socio-político.
+D. Componentes de consumidores, de competidores, componente socio-político y tecnológico. 
+B
+AG3T3E6.txt
+Según Fayol, un directivo realiza las siguientes funciones básicas: 
+A. Planificar, organizar, coordinar, liderar, y controlar.
+B. Planificar, coordinar, liderar, y controlar.
+C. Organizar, coordinar, liderar, y controlar.
+D. Planificar, liderar, y controlar.
+A
+AG3T4E1.txt
+¿Qué elementos participan en la inversión?
+A.Sujeto, Objeto, Coste y Esperanza
+B.Sujeto, Coste y Esperanza
+C.Sujeto, Objeto y Esperanza
+D.Objeto, Coste y Esperanza
+A
+AG3T4E2.txt
+¿Qué son los recursos propios?
+A.Son aquellos que tienen su origen en la propia empresa.
+B.Tienen su origen fuera de la empresa
+C.Afluyen a la empresa desde el exterior
+D.Son recursos que los socios no aportan nada
+A
+AG3T5E1.txt
+¿A que llamamos proceso productivo?
+A.Al procedimiento de transformación de unos elementos determinados en un producto específico.
+B.La transformación de todos los elementos determinados a todos los productos 
+C.Se refiere a la producción
+D.Se refiere a los pasaos para llegar a un producto específico
+A
+AG3T5E2.txt
+Según la gama de productos obtenida en un proceso productivo,¿Cuántos tipos hay en una producción múltiple?
+A.Hay 3, y son Independiente, Compuesta, Alternativa.
+B.Hay 2 y son Independiente, Compuesta
+C.Hay 2 y son Compuesta, Social
+D.Hay 2 y son Dependiente, Social
+A
+AG3T6E1.txt
+Formula de la productividad global:
+A.Valor de la producción obtenida / Valor de los factores empleados.
+B.Valor de la producción / Valor de los factores empleados
+C.Valor de la producción obtenida / Valor de los factores.
+D.Valor de los factores / Valor de la producción obtenida
+A
+AG3T6E2.txt
+¿Qué mide la productividad?
+A.La eficiencia de un proceso productivo en términos físicos.
+B.Es un proceso productivo en términos químicos
+C.Es un proceso no productivo en términos químicos
+D.Es un proceso no productivo en términos físicos
+A
+AG3T7E1.txt
+Según la naturaleza del producto se distingue entre:
+A. Bienes
+B. Prodúctos físicos y productos intangibles
+C. Beneficios y pérdidas
+D. Materiales
+B
+AG3T7E3.txt
+¿Cuáles son las técnicas que comprende el Diseño para la Excelencia?:
+A. Diseño para el ensamblaje, para la fabricación, para las pruebas, para el servicio y para el medio ambiente
+B. Diseño para el trabajo, el servicio y la satisfacción.
+C. Diseño para los empleados y los clientes
+D. Diseño modular
+A
+AG3T8E2.txt
+¿Cuáles son los principios de Hoover?
+A. Principio de los múltiplos, de la acumulación de reservas y de las operaciones al por mayor
+B. Principio de los numeros, las cifras y las letras.
+C. Principio de los documentos, fichero y reservas
+D. Principio de las compras, de las ventas y de la demanda
+A
+AG3T8E3.txt
+¿Cuáles son las relaciones entre los volúmenes de producción de los distintos productos?:
+A. Relaciones de compra y venta
+B. De tamaño y longitud
+C. Relaciones de demanda y técnicas
+D. De productividad y demanda
+C
+AG3T9E4.txt
+¿Qué tiene en cuenta el método del centro gravedad de los metodos cuantitativos e localización?
+A. Solo la localización de los mercados
+B. El transporte y los artículos transportados
+C. Nada
+D. La localización de los mercados, el volumen de los artículos transportados y los costes de transporte por unidad
+D
+AG3T10E1.txt
+¿Cuáles son los objetivos básicos de la distribución en planta?
+A.Unidad, circulación mínima, seguridad y flexibilidad.
+B.Unidad, seguridad y flexibilidad
+C.Unidad, circulación mínima y flexibilidad
+D.Unidad, circulación máxima y seguridad
+A
+AG3T10E2.txt
+¿Cuáles son las diferentes distribuciones en planta?
+A. Distribución por procesos, por productos, celular y de punto fijo.
+B. Distribución por procesos y celular.
+C. Distribución por trabajo y productividad.
+D. Distribución por instalación, cableado y sistema.
+A
+AG3T10E3.txt
+¿Cómo se llama el principal método de equilibrado de líneas de montaje?
+A. Ninguna es correcta
+B. Método heurístico de Kilbridge y Wester
+C. Método mercantil
+D. Método de organización
+B
+AG4T1E2.txt
+¿Que es la frontera de posibilidad de producción?
+A. Es el conjunto de combinaciones que satisfacen las necesidades con medios excasos.
+B. Es el conjunto de combinaciones de factores productivos y tecnologicas que hacen posible obtener la produccion maxima.
+C. Es la cantidad maxima de medios que una sociedad es capaz de utilizar en un determinado periodo.
+D. Es a partir de la cual se empiezan a obtener beneficios mediante los factores de producción. 
+B
+AG4T1E5.txt
+Los agentes economicos...
+A. Son las unidades que participan en la actividad productiva de un país que intengran su sistema económico.
+B. se distinguen solo en empresas y economias domesticas.
+C. Están compuestos solo por las unidades de produccio y unidades de consumo.
+D. Son las unidades que participan en la actividad económica de un país y integran su sistema económico.
+D
+AG4T2E3.txt
+Los elementos humanos perteneciente a los elementos constitutivos de la empresa...
+A. Son llamados factores potenciales con acción superior a la mera suma de sus elementos materiales.
+B. Conforman la dinamica del capitaly entorno social.
+C. Están compuestos en grupos diferenciados por sus intereses y relaciones con los grupos restantes.
+D. Se clasifican en propietarios, administradores y socios.
+C
+AG4T2E6.txt
+¿Cuales de la siguientes definiciones de Empresario es más correcta?
+A. Es el individuo cuyo objetivo es ganar dinero, que organiza y dirige la combinación de factores productivos    para vender un producto en el mercado.
+B. Es el individuo que gestiona una empresa.
+C. Es el individuo que asume un riesgo, asegurando una renta al indeciso y por lo tanto, tiende a no innovar.
+D. Vende medios economicos a ciertos precios.
+A

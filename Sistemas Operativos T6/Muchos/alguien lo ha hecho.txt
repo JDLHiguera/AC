@@ -1,0 +1,51 @@
+juaky: alguien ha hecho el examen de esta semana?
+
+PedroJ: había gente que lo hacía hoy a las 4 de la tarde...
+
+Jose: A ver si alguno puede subir las preguntas
+O almenos decir algunas que os acordeis xD.
+
+Ismael J: seria de agredecer la verdad xd
+
+Andrés: a ver si alguien se acuerda de algunas preguntas que le hayan caido, gracias.
+
+juaky: nadie ha hecho el examen? xD si alguien lo ha hecho que ponga algo plis
+
+María: por lo que he visto en el campus, el test estaba abierto hasta las 8 de la 
+tarde, asi que tendremos que esperar un poco mas...yo de vosotros estaría empezando a 
+estudiar de verdad xD
+
+
+
+Ramón: Crudito, cruditoooo (8)
+
+Andrés: Vamos chicos, no os desanimeis, ya veras como todo sale bien. jajajaja
+
+
+
+amy:yo no se a vosotros pero a mi no me da tiempo de estudiar xD, ademas aunque estudie me equivocare en un espacio y a la mierda todo 
+
+FranLopez: Amy, este examen no es de completar, es un test XD
+
+Ivan Felix: Disculpen la demora, en cuanto al examen de hoy, os puedo comentar por encima como a sido:
+- Un ejercicio trataba sobre si p1=7, p2=6, p3=7, desplazamiento=12, nos preguntaba si dandonos las direcciones logicas=32bits y el tamaño de la entrada=4Bytes, nos pide si se alguno de los tres presenta fragmentacion interna, a la respuesta, es todos presentan fragmentacion interna
+-Otro ejercicio nos preguntaba el tiempo efectivo, el calculo no es nada raro, es como el ejemplo expuesto en las transparencias del tema.
+-Si en un sistema de memoria virtual paginado el tamaño de la página es de 2 KiB y las direcciones físicas son de 32 bits, ¿cuál será el formato de la dirección física si m es el número de bits dedicados al número de marco y d el número de bits del desplazamiento?
+respuesta: m = 21 y d = 11
+-Si un sistema utiliza la estrategia de frecuencia de fallos de página, el tamaño del conjunto residente se ajusta:
+respuesta: Cada vez que se produce una referencia a memoria
+-En un sistema de memoria virtual paginado con direcciones lógicas de 32 bits, una memoria física de 16 MiB, y un tamaño de página de 2 KiB. ¿Cuántas entradas tendrá la tabla de páginas invertida?
+respuesta: 2^13 entradas
+
+No llego a recordar nada mas, pero la mayoria de preguntas, creo que en total 7 eran de realizar ejercicios mas o menos sencillos y 3 preguntas teoricas, mañana me reunire con el resto de compañeros, para ver si antes de las 2 de la tarde conseguimos recordar el resto. Un sal
+En que transparencias viene lo del calculo del tiempo efectivo?
+
+Andrés: en la transparencia 50. 
+
+María Jesús: Ahí teneis el test de hoy con un 8. Saludos
+
+juaky: muchas gracias, te las pegaoo :D
+
+Pepe: Muchisisisisisisisimas gracias Maria :)
+
+juaky: una pregunta, es el mismo para todos?
