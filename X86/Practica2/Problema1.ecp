@@ -1,5 +1,5 @@
 ;Do not modify this file!!!
-Easy Code 1.07.0.0004
+Easy Code 1.07.0.0009
 Begin ECProject = Proyecto1
   EasyCodeProject=0
   FileType=3
@@ -20,6 +20,6 @@ Begin ECProject = Proyecto1
   Title=Easy Code GoAsm classic project
   Resources=Proyecto1.ecr
   Module=Module1.asm
-  Include=windows.h
   Library=Kernel32.dll
+  Library=msvcrt.dll
 End

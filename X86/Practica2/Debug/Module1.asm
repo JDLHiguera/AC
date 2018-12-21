@@ -1,4 +1,3 @@
-;EasyCodeName=Module1,1
 .Const
 
 .Data
@@ -38,6 +37,8 @@ inicio_bucle:
 
 			 Add eax, 2
 			 Jmp inicio_bucle
+
+
 
 fin_bucle:
 
